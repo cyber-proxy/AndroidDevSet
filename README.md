@@ -21,6 +21,7 @@
     * LeakCanary源码解析
     * BlockCanary源码解析
     * Glide实现图片加载，其优化原理解析
+    * App性能检测与分析
  * LocalBroadcastManager和普通广播的区别
     * 广播的设计模式
  * Gradle语法和用法
@@ -32,6 +33,6 @@
     * 混淆
     * 打包
     * 二次打包
- * .......
-	
+ * JNI开发
+ * Linux相关知识	
   
