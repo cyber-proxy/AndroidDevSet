@@ -1,5 +1,5 @@
 # AndroidDevSet
-搜集各种Android开发过程中需要用到的知识和工具（[EngLish Readme](https://github.com/tsotumu/AndroidDevSet/blob/master/Readme_eng.md）
+ 搜集各种Android开发过程中需要用到的知识和工具[English DOC](https://github.com/tsotumu/AndroidDevSet/blob/master/Readme_eng.md)
 ## 代码中涉及到但不仅限于:
  * Activity的各个生命周期回调，及其用处
  	* onPostCreated，`是否可以执行View.getMeasuredHeight()`<br>
