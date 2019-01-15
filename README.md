@@ -1,5 +1,5 @@
 # AndroidDevSet
- * 搜集各种Android开发过程中需要用到的知识和工具[English DOC](https://github.com/tsotumu/AndroidDevSet/blob/master/Readme_eng.md)
+ * 集成各种Android开发过程中需要用到的知识[English DOC](https://github.com/tsotumu/AndroidDevSet/blob/master/Readme_eng.md)
  * Android开发学习仅仅需要此工程即可，此工程包罗了所有技术关键点和难点。
 ## 代码中涉及到但不仅限于:
  * Activity的各个生命周期回调，及其用处
