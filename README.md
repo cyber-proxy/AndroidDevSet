@@ -33,6 +33,7 @@
     * 打包
     * 二次打包
  * Binder相关知识
+ * Multidex相关知识
  * JNI开发
  * Linux相关知识	
   
